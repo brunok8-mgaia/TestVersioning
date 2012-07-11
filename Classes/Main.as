@@ -18,7 +18,7 @@ package Classes
 			screenMenu.y = 400 / 2;
 			addChild(screenMenu);
 			
-			trace("Teste para ver o GitHub");
+			trace("Teste 1 para 1 ver 1 o 1 GitHub");
 		}
 		
 	}
