@@ -18,7 +18,9 @@ package Classes
 			screenMenu.y = 400 / 2;
 			addChild(screenMenu);
 			
-			trace("Teste para ver o GitHub");
+			trace("Tes2te p2ara v1er o1 Git1Hub");
+			trace("Tes2te p2ara v2er o2 Git2Hub");
+			trace("Teste para v2er o2 Git2Hub");
 		}
 		
 	}
