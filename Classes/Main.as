@@ -11,7 +11,7 @@ package Classes
 		
 		public function Main() 
 		{
-			trace("Main - Construtor");
+			trace("Main - Construtor 2");
 			
 			var screenMenu:ScreenMenu = new ScreenMenu();
 			screenMenu.x = 550 / 2;
